@@ -1,6 +1,5 @@
 # vueproject
-
-This are the results from a Vue.js coding assessment I took.
+My Vue.js coding assessment.
 
 ## Recommended IDE Setup
 
