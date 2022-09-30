@@ -1,6 +1,6 @@
 # vueproject
 
-This template should help get you started developing with Vue 3 in Vite.
+This are the results from a Vue.js coding assessment I took.
 
 ## Recommended IDE Setup
 
